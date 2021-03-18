@@ -47,8 +47,10 @@ All tools created in this project will be distributed as open-source software vi
 
 **Potential Roadblocks:**
 
-There are several key roadblocks that may arise. The most likely of these is sudden changes to the WAX or Atomic Assets API. If this occurs, a plan is in place to push a hot fix to the API wrapper that allows the API data to be dynamically assigned to the Classes in the Python package as a temporary workaround. Then the package will be updated to remap the new API schema to the Python Wrapper. 
+There are several key roadblocks that may arise. The most likely of these is sudden changes to the WAX or Atomic Assets API. If this occurs, a plan is in place to push a hot fix to the API wrapper that allows the API data to be dynamically assigned to the Classes in the Python package as a temporary workaround. Then the package will be updated to remap the new API schema to the Python Wrapper.
+
 Another issue that may arise is developer incapacitation. Whilst normally this would be a very unlikely occurrence, as a single developer it falls in the realms of possibility. Such an event however would likely result in direct correspondence between myself and the WAX Labs team. 
+
 Finally, new ways of using the WAX blockchain may arise, in which correspondence with the WAX team will resolve any issues.
 
 ## Financial Roadmap
@@ -58,6 +60,7 @@ Exchange rate: 1W=$0.23, CMC (High+Low)/2, 17 Mar 2021
 **Labor:** 
 
 [Indeed.com US salary for "Python Developer"](https://www.indeed.com/career/python-developer/salaries) = \$109,901/y => reduce to \$100,000 to save costs: \$48.08/hr
+
 Time invested already:  24hr
 
 - Phase 1
@@ -75,12 +78,19 @@ The Python package will form the backbone of future projects incorporating WAX o
 **Totals:**
 
 Weeks: 12
+
 Phase 1 and 2b working hours: 21hr/w (3hr/d, 7d/w)
+
 Total Hours: 12\*21+24 = 276hr
+
 Labor: 276\*48.08 = \$13,270
+
 Graphic Design for Logos: \$250
+
 Software Value: \$0
+
 15% Contingency (PMI.org rec.): \$15549
+
 WAX: 67,600W
 
 **Measures to reduce costs:**
