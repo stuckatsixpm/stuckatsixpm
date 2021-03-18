@@ -76,19 +76,19 @@ Time invested already:  24hr
 The Python package will form the backbone of future projects incorporating WAX or Atomic Assets, which is a major part of the WAX community. The Streamer NFT and Donation widget will also grow the WAX community through exposure, with 27.9b hours of streaming content being viewed in 2020. Both tools will be open-source and completely free to use, and will thus innately generate no income. However, the outcomes of this Project provide great value to the WAX community in multiple ways. Nevertheless, I personally feel that asking for funding to cover the value of software would go against the original reason I started this project: to give back to WAX. Thus, I am excluding Software Value from this proposal.
 
 **Totals:**
-```
-Weeks: 12
+```yaml
+Weeks: 12w
 Phase 1 and 2b working hours: 21hr/w (3hr/d, 7d/w)
-Total Hours: 12\*21+24 = 276hr
-Labor: 276\*48.08 = \$13,270
-Graphic Design for Logos: \$250
-Software Value: \$0
-15% Contingency (PMI.org rec.): \$15549
-WAX: 67,600W
+Total Hours: 12*21+24 = 276hr
+Labor: 276*48.08 = $13270
+Graphic Design for Logos: $250
+Software Value: $0
+15% Contingency (PMI.org rec.): $15549
+WAX: 67600W
 ```
 
 **Measures to reduce costs:**
-- Reduced Pay - I have set my hourly rate to $48.08, ~$10,000 below the average yearly wage.
+- Reduced Pay - I have set my hourly rate to \$48.08, ~\$10,000 below the average yearly wage.
 - No "Software Value" aspect of the grant, which is usually included in calculating project worth.
 
 ## Estimated Time
