@@ -17,14 +17,18 @@ Python wrapper for WAX, WAX Sweden, and Atomic Asset APIs. Goal: An open-source 
 
 ## Content:
 
-**Categories**: dev.tools & marketing
+**Categories**: 
+
+dev.tools & marketing
 
 **Key Outcomes:**
+
  - Growth of WAX community and resources available.
  - A high-quality, open-source Python Package providing a read-only wrapper for the Atomic Assets API and the WAX API that will facilitate further development in the WAX Community.
  - A community engagement platform to allow Streamers to show WAX and NFT donations they receive during their streams. This will expose WAX and NFTs to a vast audience that is largely untapped now.
 
 **Project Overview:**
+
 *All tools in this proposal are already under some level of development.*
 Python is one of the most used programming languages. This proposal requests support for the development of an open-source high-quality API wrapper that will allow the WAX community to develop further tools. Whilst this project does not extend the WAX blockchain specifically, it provides a valuable framework for future endeavours. The project falls into 3 phases, centred around the heavily influence of NFTs on WAX's growth.
 
@@ -42,6 +46,7 @@ The third phase is an ongoing commitment to supporting the development of the AP
 All tools created in this project will be distributed as open-source software via GitHub.
 
 **Potential Roadblocks:**
+
 There are several key roadblocks that may arise. The most likely of these is sudden changes to the WAX or Atomic Assets API. If this occurs, a plan is in place to push a hot fix to the API wrapper that allows the API data to be dynamically assigned to the Classes in the Python package as a temporary workaround. Then the package will be updated to remap the new API schema to the Python Wrapper. 
 Another issue that may arise is developer incapacitation. Whilst normally this would be a very unlikely occurrence, as a single developer it falls in the realms of possibility. Such an event however would likely result in direct correspondence between myself and the WAX Labs team. 
 Finally, new ways of using the WAX blockchain may arise, in which correspondence with the WAX team will resolve any issues.
@@ -51,6 +56,7 @@ W = WAX. All dollar amounts are USD
 Exchange rate: 1W=$0.23, CMC (High+Low)/2, 17 Mar 2021
 
 **Labor:** 
+
 [Indeed.com US salary for "Python Developer"](https://www.indeed.com/career/python-developer/salaries) = \$109,901/y => reduce to \$100,000 to save costs: \$48.08/hr
 Time invested already:  24hr
 
@@ -63,9 +69,11 @@ Time invested already:  24hr
   - b: Onboarding of Streaming widget - 2-4 weeks. Only promotional support from WAX.io requested.
 
 **Software Value:**
+
 The Python package will form the backbone of future projects incorporating WAX or Atomic Assets, which is a major part of the WAX community. The Streamer NFT and Donation widget will also grow the WAX community through exposure, with 27.9b hours of streaming content being viewed in 2020. Both tools will be open-source and completely free to use, and will thus innately generate no income. However, the outcomes of this Project provide great value to the WAX community in multiple ways. Nevertheless, I personally feel that asking for funding to cover the value of software would go against the original reason I started this project: to give back to WAX. Thus, I am excluding Software Value from this proposal.
 
 **Totals:**
+
 Weeks: 12
 Phase 1 and 2b working hours: 21hr/w (3hr/d, 7d/w)
 Total Hours: 12\*21+24 = 276hr
