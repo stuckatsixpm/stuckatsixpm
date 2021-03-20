@@ -17,19 +17,11 @@ This personal readme is under construction, so until then, here are my answers t
 ## StuckAtSixPM on GitHub:
 
 <img src="https://github-profile-trophy.vercel.app/?username=stuckatsixpm&theme=onedark&no-frame=true" width=100%>
-<img src='https://github-readme-stats.vercel.app/api?username=stuckatsixpm&show_icons=true&theme=onedark'>
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=stuckatsixpm&theme=onedark'>
+<img src='https://github-readme-stats.vercel.app/api?username=stuckatsixpm&show_icons=true&theme=onedark&hide_border=true'>
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=stuckatsixpm&theme=onedark&hide_border=true'>
 
 --------
 
 *Thanks to anuraghazra and ryo-ma for GitHub stat widgets*
 
 <!--- CSS --->
-
-<style>
-.flex_div {
-  display: flex;
-}
-.img1 { flex: 0.43478260884459; }
-.img2 { flex: 3.3; }
- </style>
