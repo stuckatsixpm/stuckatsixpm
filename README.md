@@ -17,29 +17,8 @@ This personal readme is under construction, so until then, here are my answers t
 ## StuckAtSixPM on GitHub:
 
 <img src="https://github-profile-trophy.vercel.app/?username=stuckatsixpm&theme=onedark&no-frame=true" width=100%>
-
-
-
-
-<div class='flex_div'>
-  <div class='img1'>
-    <img src='https://github-readme-stats.vercel.app/api?username=stuckatsixpm&show_icons=true&theme=onedark'>
-  </div>
-  <div class='img2'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=stuckatsixpm&theme=onedark'>
-  </div>
-</div>
+<img src='https://github-readme-stats.vercel.app/api?username=stuckatsixpm&show_icons=true&theme=onedark' width="43.478260884459%"><img src='https://github-readme-stats.vercel.app/api/wakatime?username=stuckatsixpm&theme=onedark' width="56.521739115541%">
 
 --------
 
 *Thanks to anuraghazra and ryo-ma for GitHub stat widgets*
-
-<!--- CSS --->
-
-<style>
-.flex_div {
-  display: flex;
-}
-.img1 { flex: 2.53846154; }
-.img2 { flex: 3.3; }
- </style>
