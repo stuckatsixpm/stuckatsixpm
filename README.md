@@ -23,5 +23,3 @@ This personal readme is under construction, so until then, here are my answers t
 --------
 
 *Thanks to anuraghazra and ryo-ma for GitHub stat widgets*
-
-<!--- CSS --->
