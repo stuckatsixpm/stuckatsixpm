@@ -1,7 +1,6 @@
 # StuckAtSixPM
 *Freelance Python Enthusiast - This is my non-work account, created Mar 7, 2021 to allow me to separate my "professional" work from my "freelance" work.*
 
-
 ## About me:
 This personal readme is under construction, so until then, here are my answers to a few of the suggested tidbits:
 
