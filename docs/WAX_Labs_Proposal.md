@@ -1,5 +1,6 @@
 # Developing Community Tools for WAX
 *Stuck at Six PM*
+
 [View on WAX Labs](https://labs.wax.io/proposals/10)
 
 ----------
