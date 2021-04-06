@@ -1,9 +1,9 @@
 # StuckAtSixPM
-*Freelance Python Enthusiast - This is my non-work account, created Mar 7, 2021 to allow me to separate my "professional" work from my "freelance" work.*
+*Freelance Python Enthusiast*
 
 
 ## About me:
-This personal readme is under construction, so until then, here are my answers to a few of the suggested tidbits:
+This personal portfolio is under construction, so until then, here are my answers to a few of the suggested tidbits:
 
 - 🔭 I’m currently working on tools for the WAX blockchain
 - 💬 Ask me about Python
@@ -22,7 +22,6 @@ This personal readme is under construction, so until then, here are my answers t
 
 ### My Stats:
 
-<img src="https://github-profile-trophy.vercel.app/?username=stuckatsixpm&theme=onedark&no-frame=true" width=100%>
 <img src='https://github-readme-stats.vercel.app/api?username=stuckatsixpm&show_icons=true&theme=onedark&hide_border=true'>
 <img src='https://github-readme-stats.vercel.app/api/wakatime?username=stuckatsixpm&theme=onedark&hide_border=true&v=2'>
 
