@@ -1,7 +1,6 @@
 # StuckAtSixPM
 *Freelance Python Enthusiast*
 
-
 ## About me:
 This personal portfolio is under construction, so until then, here are my answers to a few of the suggested tidbits:
 
