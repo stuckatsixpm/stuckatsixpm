@@ -1,12 +1,11 @@
 # StuckAtSixPM
-*Freelance Python Enthusiast*
+*Freelance Python Enthusiast* <- **LOL**
 
 ## About me:
-This personal portfolio is under construction, so until then, here are my answers to a few of the suggested tidbits:
 
 - 🔭 I’m currently working on tools for the WAX blockchain
-- 💬 Ask me about Python
-- 📫 How to reach me: I'm [@stuckat6pm](https://twitter.com/stuckat6pm) on Twitter
+- 💬 Ask me about Python, the WAX Blockchain, or Monster Hunter ⚔️
+- 📫 How to reach me: I'm [@stuckatsixpm](https://twitter.com/stuckatsixpm) on Twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm almost finished my PhD in computational biology!
   
@@ -14,10 +13,7 @@ This personal portfolio is under construction, so until then, here are my answer
 
 --------
 ## StuckAtSixPM on GitHub:
-
-### Key Projects: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stuckatsixpm&repo=dalton&show_icons=true&theme=onedark&hide_border=true)](https://github-readme-stats.vercel.app/api/pin/?username=stuckatsixpm&repo=dalton&show_icons=true&theme=onedark&hide_border=true)
-
+Oh boy, this is out of date - I've just done a small edit to update broken links, and will do a proper update soon!
 
 ### My Stats:
 
